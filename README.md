@@ -1,4 +1,4 @@
-Faizan
+# Faizan
 
 I began my journey in applied technology with a curiosity for language, cognition, and data-driven systems. Early in my undergrad at Jamia Millia Islamia, I dove deep into computational linguistics and mixed-lingual NLP—publishing research on language disambiguation and exploring the nuances of homographs and contextual language understanding.
 
