@@ -31,10 +31,3 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=innovatewithfaizan&layout=compact&theme=radical)
 
 ---
-
-## 📬 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/innovatewithfaizan)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://innovatewithfaizan.com)
-[![Email](https://img.shields.io/badge/Email-faizanmohani%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faizanmohani@gmail.com)
-
----
