@@ -26,8 +26,9 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=innovatewithfaizan&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=innovatewithfaizan&layout=compact&theme=radical)
+## 📊 Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=innovatewithfaizan&theme=radical&hide_border=true&v=1)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=innovatewithfaizan&layout=compact&theme=radical&v=1)
+
 
 ---
