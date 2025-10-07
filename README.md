@@ -1,4 +1,4 @@
-# Hi, I'm Faizan 👋  
+#Faizan 
 **AI Engineer • Data Scientist • Systems Builder**  
 *I build AI tools that solve real problems — and mentor others to do the same.*
 
