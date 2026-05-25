@@ -17,5 +17,5 @@
 - 💡 I started in tech with a focus on **language and data**, publishing research on multilingual NLP.  
 - ⚙️ I’ve built **AI tools for compliance, lead generation, and workflow automation**.  
 - 🛠 I work across **RAG systems, AI agents, and multimodal models** — always with a focus on making AI useful & explainable.  
-- 🌱 Currently building **AI-native tools** and mentoring on **AI strategy & execution**.  
+- 🌱 Currently building **AI-native tools** and some work around on **AI strategy & execution**.  
 - 🌍 Based in Montreal, Canada — collaborating globally.  
