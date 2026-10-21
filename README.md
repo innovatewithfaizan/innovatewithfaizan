@@ -24,7 +24,7 @@ Reads a film's subtitles and rates violence, sex, language and drug use for pare
 - **92%** of ratings are exact or one step off the parent guide
 - **95–98%** of the quotes it gives as evidence really exist in the subtitles
 - Strongest on language (up to 71% exact). Violence and drinking are hard, because they are seen rather than heard
-- Under half a cent per film
+- $0.004–$0.006 per film with gpt-5-mini
 
 `Python` `OpenAI` `ChromaDB` `Streamlit` `RAG` `LLM-as-a-judge`
 
