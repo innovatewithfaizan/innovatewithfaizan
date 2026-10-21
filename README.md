@@ -28,7 +28,7 @@ Reads a film's subtitles and rates violence, sex, language and drug use for pare
 
 `Python` `OpenAI` `ChromaDB` `Streamlit` `RAG` `LLM-as-a-judge`
 
-#### [Groundwork](https://github.com/innovatewithfaizan/DocuFlow) (formerly DocuFlow)
+#### [Groundwork](https://github.com/innovatewithfaizan/groundwork) (formerly DocuFlow)
 
 A modular RAG service that answers questions about your documents with citations, compares PDFs and extracts metadata.
 
